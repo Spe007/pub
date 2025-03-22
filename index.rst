@@ -12,3 +12,4 @@ Une base de données des articles est présentée ici.
 Méthode
 ----------------------
 A compléter
+ 
